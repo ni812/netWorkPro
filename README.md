@@ -5,15 +5,15 @@
 ## Наши работы ##
 
 **Сервис on-line записи**
-[перейти]<https:timegraf.pro>
+[перейти](https:timegraf.pro)
 от 250К
 
 **CPA система**
-[перейти]<https:traff.team>
+[перейти](https:traff.team)
 от 150К
 
 **Landing page**
-[перейти]<https:vsyastyazka.ru>
+[перейти](https:vsyastyazka.ru)
 от 50К
 
 У вас есть задача по разработке проекта напишите нам
